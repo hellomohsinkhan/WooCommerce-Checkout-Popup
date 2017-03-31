@@ -1,3 +1,5 @@
+==== Checkout Popup Plugin =========
+
 Installation Guide
 =============================
 1) First download the plugin 
