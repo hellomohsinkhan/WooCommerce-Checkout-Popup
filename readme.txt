@@ -1,4 +1,4 @@
-=== Checkout Popup Plugin ===
+=== Checkout Popup ===
 Contributors: Mohsin khan
 Tags: checkout popup, checkout modal, custom checkout,advance checkout, checkout customization,one page checkout, same page checkout,woocommerce, woocommerce addon.
 Requires at least: 4.0
