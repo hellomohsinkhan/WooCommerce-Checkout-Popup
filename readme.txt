@@ -1,4 +1,11 @@
-==== Checkout Popup Plugin =========
+=== Checkout Popup Plugin ===
+Contributors: Mohsin khan
+Tags: checkout popup, checkout modal, custom checkout,advance checkout, checkout customization,one page checkout, same page checkout,woocommerce, woocommerce addon.
+Requires at least: 4.0
+Tested up to: 4.6
+Stable tag: 4.6
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Installation Guide
 =============================
